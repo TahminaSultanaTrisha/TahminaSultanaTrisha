@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trisha
 
-I'm a Computer Science student at Leeds Beckett University, currently learning the fundamentals of programming with Python, Machine Learning, and AI. This repository is my main workspace where I collect my notes, projects, and experiments as I grow my skills.
+I'm a Computer Science student at Leeds Beckett University, currently learning the fundamentals of programming with Python, Machine Learning, and AI. I grow my skills day by day.
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm a Computer Science student at Leeds Beckett University, currently learning t
 -  Exploring how AI can support learning and coding responsibly  
 
 
-## 🚀 Why I Made This
+##  Why I Made This
 
 I wanted a space to:
 
