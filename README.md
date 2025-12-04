@@ -1,22 +1,14 @@
-#  Programming & AI Learning Portfolio
+# 👋 Hi, I'm Trisha
 
-Hi! I’m Trisha (she/her), a Computer Science student at Leeds Beckett University. This repository is where I collect and organize everything I’ve been learning — from Python basics to AI concepts. It’s a mix of code, notes, experiments, and reflections as I grow my skills week by week.
+I'm a Computer Science student at Leeds Beckett University, currently learning the fundamentals of programming with Python, Machine Learning, and AI. This repository is my main workspace where I collect my notes, projects, and experiments as I grow my skills.
 
-##  What’s in This Repo?
+## About Me
 
-This repo includes:
+-  Studying Computer Science at Leeds Beckett University  
+-  Interested in Python, data structures, and how AI fits into programming  
+-  Using Jupyter Notebooks and Markdown to keep my learning organized  
+-  Exploring how AI can support learning and coding responsibly  
 
-- **Jupyter Notebooks**  
-  Step-by-step lessons and exercises on programming fundamentals, file handling, functions, data structures, and more.
-
-- **Logbook**  
-  Weekly Markdown notes where I reflect on what I’ve learned, what confused me, and what clicked. Topics include debugging, error handling, AI integration, and coding principles like DRY and WET.
-
-- **Project Files**  
-  Python scripts, chatbot experiments, and other mini-projects that helped me apply what I’ve learned.
-
-- **AI Declaration**  
-  A transparent explanation of how I’ve used AI tools to support my learning — responsibly and honestly.
 
 ## 🚀 Why I Made This
 
