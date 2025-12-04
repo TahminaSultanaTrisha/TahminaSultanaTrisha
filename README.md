@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Trisha
 
-I'm a Computer Science student at Leeds Beckett University, currently learning the fundamentals of programming with Python, Machine Learning, and AI. I grow my skills day by day.
+I'm a Computer Science student at Leeds Beckett University, currently learning the fundamentals of programming with Python, Machine Learning, and AI. I'm growing my skills day by day.
 
 ## About Me
 
