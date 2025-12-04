@@ -34,7 +34,7 @@ I wanted a space to:
 If you’re curious about my work or want to connect:
 
 - Email: t.trisha2673@student.leedsbeckett.ac.uk  
-- LinkedIn: [Tahmina Sultana Trisha](https://www.linkedin.com/in/tahmina-sultana-trisha-8032573612)
+- LinkedIn: [Tahmina Sultana Trisha](https://www.linkedin.com/in/tahmina-sultana-trisha-803257361?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
